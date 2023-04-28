@@ -14,5 +14,9 @@
 }
 
 #number_container {
-
+    background-color: violet;
+    font-size: 60px;
+    padding: 1rem 2rem;
+    display: flex;
+    gap: 2rem;
 }
